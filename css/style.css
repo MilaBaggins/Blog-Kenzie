@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(250, 252, 255);
+}
+
+.menu ul{
+        
+    display: flex;
+    justify-content: space-around;
+    font-family: fantasy;
+}
+
+ .menu li {
+     list-style: none;
+ }
+
+.titulo {
+    background-color: rgb(82, 91, 116);
+    font-family: fantasy; color: rgb(242, 247, 255);
+    text-align: center;   
+}
+
+.post1 {
+    font-family: fantasy; color: rgb(51, 65, 78);
+}
+
+.post2 {
+    font-family: fantasy; color: rgb(51, 65, 78);
+}
+
+.post3 {
+    font-family: fantasy; color: rgb(51, 65, 78);
+}
+
+.post4 {
+    font-family: fantasy; color: rgb(51, 65, 78);
+}
+
+.newsletter {
+    background-color: rgb(111, 119, 139);
+    font-family: fantasy;
+    
+}
