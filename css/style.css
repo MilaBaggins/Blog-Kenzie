@@ -19,19 +19,7 @@ body {
     text-align: center;   
 }
 
-.post1 {
-    font-family: fantasy; color: rgb(51, 65, 78);
-}
-
-.post2 {
-    font-family: fantasy; color: rgb(51, 65, 78);
-}
-
-.post3 {
-    font-family: fantasy; color: rgb(51, 65, 78);
-}
-
-.post4 {
+.posts {
     font-family: fantasy; color: rgb(51, 65, 78);
 }
 
