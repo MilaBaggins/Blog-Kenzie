@@ -19,13 +19,24 @@ body {
     text-align: center;   
 }
 
-.posts {
+.post1 {
     font-family: fantasy; color: rgb(51, 65, 78);
 }
 
+.post2 {
+    font-family: fantasy; color: rgb(51, 65, 78);
+}
+
+.post3 {
+    font-family: fantasy; color: rgb(51, 65, 78);
+}
+
+.post4 {
+    font-family: fantasy; color: rgb(51, 65, 78);
+}
 
 .newsletter {
-    background-color: rgb(89, 106, 148);
+    background-color: rgb(111, 119, 139);
     font-family: fantasy;
     
 }
